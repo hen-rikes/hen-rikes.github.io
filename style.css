@@ -14,7 +14,6 @@ body {
 }
 
 #conta {
-    position: relative;
     font-size: 24px;
     color: white;
 }
@@ -54,3 +53,138 @@ th, td {
 #principal {
     color: white;
 }
+
+/* horario */
+#excluir:after {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 63px;
+    left: 225px;
+    content: "\274c";
+    line-height: 100px;
+    text-align: center;
+}
+
+#excluir2:after {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 98px;
+    left: 225px;
+    content: "\274c"; 
+    color: #FFF;
+    line-height: 100px;
+    text-align: center;
+}
+
+#lapis {
+    position: absolute;
+    background-color: rgba(250, 250, 250, 255);
+    border-radius: 7px;
+    width: 22px;
+    height: 22px;
+    top: 102px;
+    left: 230px;
+}
+
+#lapis2 {
+    position: absolute;
+    background-color: rgba(250, 250, 250, 255);
+    border-radius: 7px;
+    width: 22px;
+    height: 22px;
+    top: 135px;
+    left: 230px;
+}
+/* horario */
+
+/* aluno */
+#excluir3:after {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 63px;
+    left: 800px;
+    content: "\274c";
+    line-height: 100px;
+    text-align: center;
+}
+
+#excluir4:after {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 98px;
+    left: 800px;
+    content: "\274c"; 
+    color: #FFF;
+    line-height: 100px;
+    text-align: center;
+}
+
+#lapis3 {
+    position: absolute;
+    background-color: rgba(250, 250, 250, 255);
+    border-radius: 7px;
+    width: 22px;
+    height: 22px;
+    top: 102px;
+    left: 802px;
+}
+
+#lapis4 {
+    position: absolute;
+    background-color: rgba(250, 250, 250, 255);
+    border-radius: 7px;
+    width: 22px;
+    height: 22px;
+    top: 135px;
+    left: 802px;
+}
+/* aluno */
+
+/* curso */
+#excluir5:after {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 63px;
+    left: 496px;
+    content: "\274c";
+    line-height: 100px;
+    text-align: center;
+}
+
+#excluir6:after {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 98px;
+    left: 496px;
+    content: "\274c"; 
+    color: #FFF;
+    line-height: 100px;
+    text-align: center;
+}
+
+#lapis5 {
+    position: absolute;
+    background-color: rgba(250, 250, 250, 255);
+    border-radius: 7px;
+    width: 22px;
+    height: 22px;
+    top: 102px;
+    left: 504px;
+}
+
+#lapis6 {
+    position: absolute;
+    background-color: rgba(250, 250, 250, 255);
+    border-radius: 7px;
+    width: 22px;
+    height: 22px;
+    top: 135px;
+    left: 504px;
+}
+/* curso */
